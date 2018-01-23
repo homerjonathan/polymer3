@@ -1,0 +1,17 @@
+{
+  "name": "poly3",
+  "flat": true,
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "index.js",
+  "author": "Eloy Lopez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.4",
+    "@webcomponents/webcomponentsjs": "^1.0.22"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.22"
+  }
+}
