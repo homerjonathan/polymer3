@@ -1,3 +1,5 @@
+cd app
+
 docker run -it -v $(pwd):/root/app elswork/polymer3 yarn init
 
 docker run -it -v $(pwd):/root/app elswork/polymer3 yarn install
