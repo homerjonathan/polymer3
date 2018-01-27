@@ -1,6 +1,6 @@
 # Polymer 3 development environment ready to use
 This image should work for there architectures:
--amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+ -amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
 Docker image files in [DockerHub](https://hub.docker.com/r/elswork/polymer3/)
 
